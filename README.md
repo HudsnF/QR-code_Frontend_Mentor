@@ -1,2 +1,1 @@
-# QR-code_Frontend_Mentor
-QR-Code_Challenge_Frontend_Mentor
+Challenge_QR_Code_Frontend_Mentor
