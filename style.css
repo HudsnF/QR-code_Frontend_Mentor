@@ -4,16 +4,13 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    flex-direction: column;
     min-height: 100vh;
-    margin: -50px auto;
 }
 
 .main {
     display: flex;
     flex-direction: column;
     background-color: hsl(0, 0%, 100%);
-    margin: 100px 1px;
     width: 280px;
     height: 430px;
     border-radius: 20px;
