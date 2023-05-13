@@ -9,7 +9,7 @@ body {
     margin: -50px auto;
 }
 
-#container .main {
+.main {
     display: flex;
     flex-direction: column;
     background-color: hsl(0, 0%, 100%);
@@ -20,13 +20,13 @@ body {
     box-shadow: -7px 10px 17px -10px rgb(155, 155, 155);
 }
 
-#container .main img {
+.main img {
     margin: 10px 10px;
     width: 260px;
     border-radius: 12px;
 }
 
-#container .main h2 {
+.main h2 {
     color: hsl(218, 44%, 22%);
     font-size: 1.2em;
     text-align: center;
@@ -34,7 +34,7 @@ body {
     padding: .5em;
 }
 
-#container .main p {
+.main p {
     color: hsl(220, 15%, 55%);
     font-size: .8em;
     text-align: center;
